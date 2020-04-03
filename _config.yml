@@ -48,12 +48,12 @@ hero: 'sass'
 
 # sass [ only one image ]
 hero_sass_name: 'Creating a Useful and Ethical Digital Identity Ecosystem'
-hero_sass_text: 'The Trust Alliance is founded on the principles of humanity first, open ecosystems, equality, and transparency: We are a coalition of individuals and organisations working together to implement and adopt values based digital identity solutions.'
+hero_sass_text: 'We are a coalition of individuals and organisations working together to implement and adopt values based digital identity solutions.'
 hero_sass_image: 'img/hero/connected_world.png'
 hero_sass_btn_one_link: '#'
-hero_sass_btn_one_text:  'Join Us'
+hero_sass_btn_one_text:  'Why this is important?'
 hero_sass_btn_two_link: '/blog'
-hero_sass_btn_two_text: ' Recent Activities '
+hero_sass_btn_two_text: ' Our Values '
 
 # saas_video [ video type mp4 ]
 hero_saas_video_name: 'We Made our <br> Software 100% Errorless' 
