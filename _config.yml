@@ -47,7 +47,7 @@ disqus:
 hero: 'sass'
 
 # sass [ only one image ]
-hero_sass_name: 'Create a Useful and Ethical Digital Identity Ecosystem'
+hero_sass_name: 'Creating a Useful and Ethical Digital Identity Ecosystem'
 hero_sass_text: 'The Trust Alliance is a coalition of individuals and organisations working together to further the adoption of open identity solutions and values.'
 hero_sass_image: 'img/hero/connected_world.png'
 hero_sass_btn_one_link: '#'
