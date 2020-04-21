@@ -1,5 +1,5 @@
 ---
-title: Feedback request: Trust Alliance Whitepaper
+title: 'Feedback request\: Trust Alliance Whitepaper'
 image: 'img/blog/p2.jpg'
 layout: post
 ---

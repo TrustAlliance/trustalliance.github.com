@@ -194,18 +194,18 @@ feature_description_three: 'Some days a motivational quote can provide a quick p
 ####################################
 ######  marketing Section   ######
 ####################################
-marketing_title: 'Build Your Brand  Automate Your Marketing'
-marketing_description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools to help prevent getting infected. Spyware scan review is a free service for anyone interested in downloading spyware/adware removal software. Our adware remover is the most trusted.'
+marketing_title: 'The Trust Alliance'
+marketing_description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.'
 marketing_image_one: '/img/marketing/d1.png'
 marketing_image_two: '/img/marketing/d2.png'
-marketing_btn_text: 'Browse free demo'
+marketing_btn_text: 'Request the Whitepaper'
 marketing_btn_link: '#'
 
 
 ####################################
 ######  Statistics Section    ######
 ####################################
-statistics_title: 'How You or Your Organisation can Get Involved.'
+statistics_title: 'How we Work.'
 statistics_description: 'The Trust Alliance is organised around four primary working groups. Working groups are member lead, and welcoming of new values aligned individuals or organisations who would like to contribute.'
 statistics_image: 'img/title-icon.png'
 
@@ -236,7 +236,7 @@ statistics_item_four_description: 'Development of the model for technical govern
 ####################################
 ######    cta Section      ######
 ####################################
-cta_title: 'Want to support in other ways? Keep in touch...'
+cta_title: 'Get Involved.'
 cta_btn_link_one: '#'
 cta_btn_text_one: 'Signup for Newsletter'
 cta_btn_link_two: '#'
@@ -354,10 +354,10 @@ bands_slider:
 testimonials:
 
 # Client
-- author: 'Travor James'
+- author: 'Digital Identity Authority'
   avatar: '/img/review/user.png'
-  position: 'Head of Marketing, Apple Inc.'
-  quotes: 'Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+  position: 'Strong position'
+  quotes: 'Inspirational quote'
 
 
 # Client
