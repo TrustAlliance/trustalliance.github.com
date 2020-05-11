@@ -1,6 +1,6 @@
 ---
-title: Welcome to the Trust Alliance
-image: 'img/blog/b1.jpg'
+title: Digital credentials and COVID19
+image: 'img/blog/covid.jpg'
 layout: post
 ---
 

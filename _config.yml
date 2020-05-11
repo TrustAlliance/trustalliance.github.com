@@ -48,7 +48,7 @@ hero: 'sass'
 
 # sass [ only one image ]
 hero_sass_name: 'Creating a Useful and Ethical Digital Identity Ecosystem'
-hero_sass_text: 'We are a coalition of individuals and organisations working together to implement and adopt values based digital identity solutions.'
+hero_sass_text: 'Our mission is to lead the emergence of a useful and ethical digital identity ecosystem that empowers global citizenship and enhances trust between individuals and institutions.'
 hero_sass_image: 'img/hero/connected_world.png'
 hero_sass_btn_one_link: '#'
 hero_sass_btn_one_text:  'Why this is important?'
@@ -130,15 +130,15 @@ hero_product_slider:
 # hero-section-blog
 
 hero_blog_slider:
-  - image: 'img/hero/hero-blog.jpg'
-    author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
-    category: 'Technical'
+  - image: 'img/blog/news.jpg'
+    author: 'Ivana Jurko'
+    title: 'The Trust Alliance Litepaper'
+    url: '/2019/09/04/the-trust-alliance-litepaper.html'
 
-  - image: 'img/hero/hero-blog.jpg'
-    author: 'Sir Alex James'
-    title: 'The Idea Of God Is <br /> Not Henceforth Relevant'
-    category: 'Art &amp; Fantacy'
+  - image: 'img/blog/covid.jpg'
+    author: 'Amanda Robinson'
+    title: 'Digital credentials and our COVID19 response'
+    url: '/2019/09/04/the-trust-alliance-litepaper.html'
 
 
 
@@ -195,10 +195,10 @@ feature_description_three: 'Some days a motivational quote can provide a quick p
 ######  marketing Section   ######
 ####################################
 marketing_title: 'The Trust Alliance'
-marketing_description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.'
+marketing_description: 'Launched in July 2019, the Trust Alliance is a multi-sector collaboration that brings together private, public and for-purpose stakeholders to create a vibrant ecosystem committed to good digital identity. Our purpose is to lead the emergence of a useful and ethical digital identity ecosystem that empowers global citizenship and enhances trust between individuals and institutions.'
 marketing_image_one: '/img/marketing/d1.png'
 marketing_image_two: '/img/marketing/d2.png'
-marketing_btn_text: 'Request the Whitepaper'
+marketing_btn_text: 'Request the LitePaper'
 marketing_btn_link: '#'
 
 
@@ -206,7 +206,7 @@ marketing_btn_link: '#'
 ######  Statistics Section    ######
 ####################################
 statistics_title: 'How we Work.'
-statistics_description: 'The Trust Alliance is organised around four primary working groups. Working groups are member lead, and welcoming of new values aligned individuals or organisations who would like to contribute.'
+statistics_description: 'We pursue our vision and purpose by providing our members with a forum to identify identity use cases, advocate for the uptake of decentralised identity, co-create shared infrastructure, and facilitate small grants. You can get involved by joining a Working Group.'
 statistics_image: 'img/title-icon.png'
 
 # main big image
@@ -236,7 +236,7 @@ statistics_item_four_description: 'Development of the model for technical govern
 ####################################
 ######    cta Section      ######
 ####################################
-cta_title: 'Get Involved.'
+cta_title: 'Keep in touch.'
 cta_btn_link_one: '#'
 cta_btn_text_one: 'Signup for Newsletter'
 cta_btn_link_two: '#'
@@ -256,7 +256,7 @@ social_button_link: '#'
 ########## Pricing Tables ###########
 #####################################
 pricing-table-title: 'Trust Alliance Membership Fees'
-pricing-table-description: "Trust Alliance membership fees are reinvested into the organisation, contributing toward membership activities and support."
+pricing-table-description: 'Trust Alliance membership fees are reinvested into the organisation, contributing toward membership activities and support.'
 
 # Personal Plan
 plan-starter-name: individuals
@@ -398,8 +398,7 @@ testimonials:
 #####################################
 ##########     Blog      ###########
 #####################################
-blog-title: 'Latest Posts from our Blog'
-blog-description: 'The first is a non technical method which requires the use of adware removal software. Download free adware and spyware removal software and use advanced tools getting infected.'
+blog-title: 'Latest News'
 
 
 #####################################
@@ -417,28 +416,11 @@ contact_address: 'Los Angeles, United States'
 #####################################
 
 footer_title: 'About Us'
-footer_description: 'About 64% of all on-line teens say that do things online that they wouldn’t want their parents to know about. 11% of all adult internet user visit websites.'
+footer_description: 'Our purpose is to lead the emergence of a useful and ethical digital identity ecosystem that empowers global citizenship and enhances trust between individuals and institutions.'
 
 footer_resources_link_heading: 'Resources'
-footer_resources_link_one_text: 'Guides'
+footer_resources_link_one_text: 'LitePaper'
 footer_resources_link_one_link: '#'
-footer_resources_link_two_text: 'Research'
-footer_resources_link_one_link: '#'
-footer_resources_link_three_text: 'Experts'
-footer_resources_link_one_link: '#'
-footer_resources_link_four_text: 'Agencies'
-footer_resources_link_one_link: '#'
-
-
-footer_features_link_heading: 'Features'
-footer_features_link_one_text: 'Guides'
-footer_features_link_one_link: '#'
-footer_features_link_two_text: 'Research'
-footer_features_link_one_link: '#'
-footer_features_link_three_text: 'Experts'
-footer_features_link_one_link: '#'
-footer_features_link_four_text: 'Agencies'
-footer_features_link_one_link: '#'
 
 
 footer_facebook_link: '#'
@@ -454,8 +436,8 @@ mailchimp:
 ####################################
 ######        Copyright       ######
 ####################################
-copyright_text: Copyright © 2019 All rights reserved to
-company_url: '#'
+copyright_text: Copyright © 2020 All rights reserved to
+company_url: 'www.trustalliance.org.au'
 
 
 # SEO Related
